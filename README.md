@@ -26,7 +26,7 @@ The application then:
 
 ## 🧠 How the Project Works
 
-The overall workflow is:
+The overall workflow is :
 
 ```text
                     User
